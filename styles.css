@@ -4,7 +4,19 @@ button {
     
 }
 
-h1{
-    margin: auto;
-    width: 50%
+h1, h2{
+    text-align: center;
 }
+
+.buttons{
+    display:flex;
+    justify-content: center;
+}
+
+div, p{
+    display: flex;
+    justify-content: center;
+}
+
+
+
