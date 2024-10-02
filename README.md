@@ -17,3 +17,5 @@ A small project to familiarise myself with basic js.
 - rps function is a bit long, can shorten it using switch statements
 - Try to add more comments
 - The page timer will go haywire when tabs are swapped, fix needed
+- The buttons are a bit wonky in mobile, fix needed
+
